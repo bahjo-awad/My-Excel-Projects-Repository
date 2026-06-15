@@ -4,7 +4,7 @@
 ## 📌 Overview
 This project was completed as part of a **Data Technician Bootcamp (Week 1 – Excel)** and demonstrates foundational data analysis skills using Microsoft Excel.  
 
-The work focuses on analysing **retail sales** and **bike sales datasets** to extract insights, clean data, and present findings through visualisations and summaries.
+The work focuses on analysing **Retail Sales** and **Bike Sales datasets** to extract insights, clean data, and present findings through visualisations and summaries.
 
 ---
 
