@@ -1,5 +1,5 @@
 # My-Excel-Projects-Repository
-##📊 Excel Data Analysis – Data Technician Bootcamp
+📊 Excel Data Analysis – Data Technician Bootcamp
 
 A collection of hands-on Excel tasks completed during a Data Technician bootcamp, applying real-world data analysis techniques to retail and sales datasets.
 
